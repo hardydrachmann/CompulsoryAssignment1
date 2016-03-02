@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">CompulsoryAssignment1</string>
+    <string name="app_name">Dice Cup</string>
+    <string name="btnRollDice">Roll</string>
+    <string name="btnHistory">History</string>
+    <string name="txtDiceLabel1">Dice 1 : </string>
+    <string name="txtDiceLabel2">Dice 2 : </string>
+    <string name="txtDiceLabel3">Dice 3 : </string>
+    <string name="txtDiceLabel4">Dice 4 : </string>
+    <string name="txtDiceLabel5">Dice 5 : </string>
+    <string name="txtDiceLabel6">Dice 6 : </string>
+    <string name="txtDiceFace1"></string>
+    <string name="txtDiceFace2"></string>
+    <string name="txtDiceFace3"></string>
+    <string name="txtDiceFace4"></string>
+    <string name="txtDiceFace5"></string>
+    <string name="txtDiceFace6"></string>
 </resources>
