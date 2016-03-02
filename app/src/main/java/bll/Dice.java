@@ -2,9 +2,6 @@ package bll;
 
 import java.util.Random;
 
-/**
- * Created by Hardy Drachmann on 29-02-2016.
- */
 public class Dice {
     private Random randomNumber = new Random();
     private int face = 0;

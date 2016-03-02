@@ -55,10 +55,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void RollDice() {
-        for (int i = 0; i < txtDiceFace.length; i++) {
-            txtDiceFace[i].setText("");
+        for (TextView textView : txtDiceFace) {
+            textView.setText("");
         }
-            int numberOfDices = numberPicker.getValue();
+        int numberOfDices = numberPicker.getValue();
         for (int i = 0; i < numberOfDices; i++) {
             dice.rollDice();
             int face = dice.getFace();

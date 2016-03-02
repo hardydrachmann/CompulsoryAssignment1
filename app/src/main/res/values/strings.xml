@@ -8,10 +8,4 @@
     <string name="txtDiceLabel4">Dice 4 : </string>
     <string name="txtDiceLabel5">Dice 5 : </string>
     <string name="txtDiceLabel6">Dice 6 : </string>
-    <string name="txtDiceFace1"></string>
-    <string name="txtDiceFace2"></string>
-    <string name="txtDiceFace3"></string>
-    <string name="txtDiceFace4"></string>
-    <string name="txtDiceFace5"></string>
-    <string name="txtDiceFace6"></string>
 </resources>
