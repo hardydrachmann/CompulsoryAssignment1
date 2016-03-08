@@ -1,4 +1,4 @@
-package bll;
+package com.example.hardydrachmann.compulsoryassignment1.bll;
 
 import java.util.Random;
 
